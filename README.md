@@ -1,19 +1,47 @@
-# 👋 Jeevan Risal
-Software Engineer | Full-Stack & APIs | Sydney (or your city)
+# Jeevan Risal
 
-🔗 Portfolio • LinkedIn • Email
+Software Engineer  
+Building clean, scalable web applications with strong fundamentals.
 
-## 🚀 About
-Short one-paragraph on who you are and the kind of work you build.
+🌐 Portfolio: https://jeevanrisal.com  
+💼 LinkedIn: https://www.linkedin.com/in/jeevan-risal-a76035285/
+📍 Australia  
 
-## 💼 Tech Stack
-React | Node.js | JavaScript | Python | SQL | Git | Docker
+---
 
-## 📌 Featured Projects
-Highlight 2–3 repos (with 1-sentence explains + links)
+## About Me
+I am a software engineer with a strong focus on full-stack web development.  
+I care about clean architecture, readable code, and building things that actually work in the real world.
 
-## 🛠 Recent Activity
-Showcase your weekly contribution goals
+My GitHub is a **curated collection of projects** that demonstrate how I design, build, test, and document software.
 
-## 📫 Connect
-LinkedIn | Email
+---
+
+## Tech Stack
+- **Frontend:** React, JavaScript, HTML, CSS, Tailwind
+- **Backend:** Node.js, Express
+- **Databases:** SQL, PostgreSQL, MongoDB
+- **Testing:** Selenium, Playwright, Jest
+- **Tools:** Git, GitHub, Docker, Linux
+
+---
+
+## Featured Work
+🔹 Full-stack applications with authentication and APIs  
+🔹 Automation & testing projects  
+🔹 Data-driven and backend-focused builds  
+
+👉 Live demos and detailed case studies are available on my portfolio:  
+**https://jeevanrisal.com**
+
+---
+
+## How I Work
+- Clean folder structures
+- Clear READMEs and documentation
+- Focus on fundamentals over hype
+
+---
+
+## Contact
+If you want to collaborate or discuss opportunities, reach out via my portfolio or LinkedIn.
