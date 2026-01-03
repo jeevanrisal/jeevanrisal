@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Jeevan Risal
+Software Engineer | Full-Stack & APIs | Sydney (or your city)
 
-<!--
-**jeevanrisal/jeevanrisal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔗 Portfolio • LinkedIn • Email
 
-Here are some ideas to get you started:
+## 🚀 About
+Short one-paragraph on who you are and the kind of work you build.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Tech Stack
+React | Node.js | JavaScript | Python | SQL | Git | Docker
+
+## 📌 Featured Projects
+Highlight 2–3 repos (with 1-sentence explains + links)
+
+## 🛠 Recent Activity
+Showcase your weekly contribution goals
+
+## 📫 Connect
+LinkedIn | Email
