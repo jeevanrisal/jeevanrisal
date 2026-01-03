@@ -5,6 +5,7 @@ Building clean, scalable web applications with strong fundamentals.
 
 🌐 Portfolio: https://jeevanrisal.com  
 💼 LinkedIn: https://www.linkedin.com/in/jeevan-risal-a76035285/
+
 📍 Australia  
 
 ---
